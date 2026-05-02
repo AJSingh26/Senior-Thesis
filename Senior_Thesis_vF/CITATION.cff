@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite:"
+authors:
+  - family-names: Triantafyllou
+    given-names: Niki
+  - family-names: Bernardi
+    given-names: Andrea
+  - family-names: Lakelin
+    given-names: Matthew
+  - family-names: Shah
+    given-names: Nilay
+  - family-names: Papathanasiou
+    given-names: Maria M.
+title: "A digital platform for the design of patient-centric supply chains"
+journal: "Scientific Reports"
+volume: "12"
+pages: "17365"
+year: 2022
+publisher: "Springer Nature"
+doi: "10.1038/s41598-022-21290-5"
